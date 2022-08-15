@@ -10,7 +10,7 @@
     "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "KiZakiXD",
+  "author": "M.Alhakim",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "4.1.0",
@@ -45,5 +45,5 @@
     "util": "^0.12.4",
     "yargs": "^17.2.1"
   },
-  "hompage": "https://github.com/KiZakiXD/simi"
+  "hompage": "https://github.com/Reinkarna/simi"
 }
