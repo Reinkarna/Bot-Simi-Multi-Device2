@@ -8,9 +8,9 @@ Thanks All Contributor.
 >
 </div>
 <p align="center">
-  <a href="https://github.com/KiZakiXD"><img title="Bot-Simi Multi Device" src="https://img.shields.io/badge/Author-KiZakiXD-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/KiZakiXD"><img title="Bot-Simi Multi Device" src="https://img.shields.io/badge/Author-M.Alhakim-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://my.kizakixd.xyz/"> My Profile </a>
+  <a href="https://my.M.Alhakim.xyz/"> My Profile </a>
 </h4>
 </p>
 
